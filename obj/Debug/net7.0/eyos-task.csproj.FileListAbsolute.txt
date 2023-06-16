@@ -1,0 +1,15 @@
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.csproj.AssemblyReference.cache
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.AssemblyInfoInputs.cache
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.AssemblyInfo.cs
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.csproj.CoreCompileInputs.cache
+/mnt/d/Projects/eyos-task/bin/Debug/net7.0/eyos-task
+/mnt/d/Projects/eyos-task/bin/Debug/net7.0/eyos-task.deps.json
+/mnt/d/Projects/eyos-task/bin/Debug/net7.0/eyos-task.runtimeconfig.json
+/mnt/d/Projects/eyos-task/bin/Debug/net7.0/eyos-task.dll
+/mnt/d/Projects/eyos-task/bin/Debug/net7.0/eyos-task.pdb
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.dll
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/refint/eyos-task.dll
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.pdb
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/eyos-task.genruntimeconfig.cache
+/mnt/d/Projects/eyos-task/obj/Debug/net7.0/ref/eyos-task.dll
